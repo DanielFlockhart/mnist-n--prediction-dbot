@@ -24,3 +24,7 @@ JS:
 - Request
 
 Numbers must be black with white background for model to be accurate. This is just a small project so I have not implemented scewing and other anti-overfitting and underfitting techniques.
+
+Features to come;
+
+- Optional testing architectures - convolutional neural network or feed forward neural network to enable testing of invariance to locational information
