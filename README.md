@@ -22,3 +22,5 @@ JS:
 - Express
 - Python-shell
 - Request
+
+Numbers must be black with white background for model to be accurate. This is just a small project so I have not implemented scewing and other anti-overfitting and underfitting techniques.
