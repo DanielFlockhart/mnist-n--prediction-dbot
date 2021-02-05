@@ -9,6 +9,7 @@ Naturally the bot must be hosted from a server before being able to be run.
 
 
 Requirements:
+
 Python:
 - Nodejs
 - tensorflow
